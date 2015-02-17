@@ -1,0 +1,42 @@
+$main-color: #fff;
+$nav-color: #333;
+$nav-link-color: #656565;
+$nav-link-color-hover: #fff;
+$white: #fff;
+$text-color: #000;
+$grey-footer: #bbbbbb;
+$red: #ee3224;
+$navbar-inverse-bg: #e0e0e0;
+$navbar-inverse-brand-hover-bg: #e0e0e0;
+$navbar-inverse-brand-color: $nav-color;
+$navbar-inverse-brand-hover-color: $red;
+
+$baseFontSize: 20!default;
+$baseFontFamily: 'Open Sans', "Lucida Grande", 'PT Sans', 'Droid Sans', sans-serif;
+$headingsFontFamily: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif!default;
+
+$baseline-ratio: 1.5!default;
+ 
+$baseLineheight: $baseFontSize * $baseline-ratio;
+$lineheight-em: $baseLineheight + 0em;
+$marginleft: $lineheight-em;
+
+$h1Size: ($baseFontSize+20)!default;
+$h1Addline: 0!default;
+ 
+$h2Size: ($baseFontSize+14)!default;
+$h2Addline: 0!default;
+ 
+$h3Size: ($baseFontSize+8)!default;
+$h3Addline: 0!default;
+ 
+$h4Size: ($baseFontSize+4)!default;
+$h4Addline: 0!default;
+ 
+$h5Size: ($baseFontSize+2)!default;
+$h5Addline: 0!default;
+ 
+$h6Size: $baseFontSize!default;
+$h6Addline: 0!default;
+
+$btn-primary-bg: $red; 
